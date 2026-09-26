@@ -11,4 +11,4 @@ Personal portfolio site built with plain HTML, CSS, and JavaScript (no framework
 Just open `index.html` in a browser — no server or build tools required.
 
 ## Deployment
-Hosted on GitHub Pages. Live at: https://sairithwik28.github.io/
+Hosted on GitHub Pages. Live at: https://sairithwik28.github.io/Personal-Portfolio/
